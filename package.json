@@ -1,0 +1,11 @@
+{
+  "name": "style-dictionary-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "style-dictionary": "^3.7.2"
+  },
+  "scripts": {
+    "build": "style-dictionary build"
+  }
+}
